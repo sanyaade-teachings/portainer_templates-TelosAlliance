@@ -2,10 +2,19 @@
 
 This change log contains the history of changes to the Portainer Templates.
 
-## 1.3.8
+## 1.3.10
+
+* Forza FM changes:
+  * Release Omnia RDS container as part of Forza FM 2.2.3 update.
+
+## 1.3.9
 
 * Generic changes:
   * Removed dual-macvlan templates due to a Docker issue that causes internal NIC names to be unpredictable, leading to telosmacvlan/ext1macvlan mapping flips. As products implement IP-based mapping, Telos Alliance will restore dual-macvlan templates.
+
+## 1.3.8
+
+* GitHub release skipped.
 
 ## 1.3.7
 
