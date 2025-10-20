@@ -75,7 +75,7 @@
       "categories": [
         "telos",
         "pdmx",
-        "macvlan"
+        "dual-macvlan"
       ],
       "platform": "linux",
       "repository": {
@@ -303,7 +303,7 @@
       "categories": [
         "telos",
         "vx",
-        "macvlan"
+        "dual-macvlan"
       ],
       "platform": "linux",
       "repository": {
@@ -427,7 +427,7 @@
       "categories": [
         "telos",
         "zephyr connect",
-        "macvlan"
+        "dual-macvlan"
       ],
       "platform": "linux",
       "repository": {

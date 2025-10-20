@@ -6,6 +6,7 @@ This change log contains the history of changes to the Portainer Templates.
 
 * Generic changes:
   * Reintroduced dual-macvlan templates as TACST 1.6.2 introduced a feature to downgrade Docker to a known working version.
+  * Fix container categories
 
 ## 1.3.10
 
